@@ -14,6 +14,7 @@ Heya! I'm Nevermore, but you can just call me Never. I'm TTRPG enthusiast, amate
 - 🌱 Currently learning Python to find ways to defeat Shocker
 - 💬 Ask me about why Sonic and The Black Knight is one of the best Sonic games
 - ⚡ Fun fact: I'm not a Crow, I'm the Eldritch Being disguised as said Crow
+- 🎶 Favorite Artist: Aviators (You should listen to!)
 
 ## ✨ My Arsenal (Tech Stack):
 ### 🗡️ Primary Weapons (Languages)
