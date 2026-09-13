@@ -41,9 +41,9 @@ Heya! I'm Nevermore, but you can just call me Never. I'm TTRPG enthusiast, amate
 ## 📊 Battle Stats (GitHub Stats):
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=nevermore1108&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nevermore1108&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nevermore1108&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=nevermore1108&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nevermore1108&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nevermore1108&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
